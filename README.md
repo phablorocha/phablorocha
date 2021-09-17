@@ -4,9 +4,9 @@
 - 💻 Academic of Computer Science 
 
  <div>
- <a href="https://github.com/phablo-rocha">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=phablo-rocha&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phablo-rocha&layout=compact&langs_count=7&theme=slateorange"/>
+ <a href="https://github.com/phablorocha">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=phablorocha&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phablorocha&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
  
 <div style="display: inline_block"><br>
